@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-webp": "^8.0.0",
+    "puppeteer": "^19.6.2"
+  },
+  "devDependencies": {
+    "@types/imagemin": "^8.0.0",
+    "@types/imagemin-webp": "^7.0.0"
+  }
+}
